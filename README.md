@@ -4,7 +4,7 @@ A responsive mobile-first portfolio website utilizing [Bootstrap](https://getboo
 
 ### Coming Soon
 
-1. Favicon
+1. Favicon - done!
 2. HTML Resume
 3. Astrophotography showcase website, hosted on AWS as above
 4. GitHub driven CI pipeline to update S3 files
