@@ -1,1 +1,25 @@
 .DS_Store
+
+# AWS credentials and configuration
+.aws/
+aws-credentials.json
+.aws-credentials
+*.pem
+*.key
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Node modules (if you add any build tools later)
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
